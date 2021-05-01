@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+    
 
 ### <div align="center">I'm Yash Patel, a full-time full-stack freelance developer 👨‍💻 I am student 🚀</div>  
   
@@ -96,29 +94,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yash-2115&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2115&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e0sa3bxvueefqku3ncbz1dnlh&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
   
 
-<br/>  
+</div>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
