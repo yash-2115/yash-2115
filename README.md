@@ -1,5 +1,5 @@
 # <div align="center">
-  <Hello Coders />
+  Hello Coders
 </div>
 
 ### <div align="center">I'm Yash Patel, a full-time full-stack freelance developer 👨‍💻 I am student 🚀</div>  
