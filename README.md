@@ -1,5 +1,5 @@
 <div align="center">
-    
+</div>
 
 ### <div align="center">I'm Yash Patel, a full-time full-stack freelance developer 👨‍💻 I am student 🚀</div>  
   
@@ -93,8 +93,5 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yash-2115&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-  
-
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yash-2115&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div> 
 
