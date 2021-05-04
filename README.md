@@ -79,7 +79,7 @@
 <a href="https://instagram.com/yash21.js/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/UCAMootMwzQFgY2kykgRemtQ" target="_blank">
+<a href="https://www.youtube.com/channel/UCAMootMwzQFgY2kykgRemtQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@yashp63544" target="_blank">
